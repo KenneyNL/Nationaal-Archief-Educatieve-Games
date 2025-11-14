@@ -1,7 +1,7 @@
 name: Change
 description: Aanpassing of toevoeging aan pagina doen
 title: ""
-labels: ["aanpassing"]
+labels: "aanpassing"
 assignees: []
 body:
   - type: textarea
