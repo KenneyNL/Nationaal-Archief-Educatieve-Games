@@ -1,0 +1,12 @@
+name: Change
+description: Aanpassing of toevoeging aan pagina doen
+title: ""
+labels: ["aanpassing"]
+assignees: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Omschrijving
+    validations:
+      required: true
