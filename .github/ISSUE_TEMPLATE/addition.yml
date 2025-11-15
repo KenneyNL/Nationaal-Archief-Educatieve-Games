@@ -13,14 +13,12 @@ body:
     id: uitgever_ontwikkelaar
     attributes:
       label: Uitgever/ontwikkelaar
-      placeholder: ""
     validations:
       required: false
   - type: input
     id: jaar_van_uitgave
     attributes:
       label: Jaar van uitgave
-      placeholder: ""
     validations:
       required: false
   - type: input
