@@ -3,30 +3,30 @@ description: Aanpassing of toevoeging aan pagina doen
 title: "Aanpassing"
 labels: "aanpassing"
 body:
-    - type: textarea
-        id: description
-        attributes:
-        label: Omschrijving
-        validations:
-        required: true
-    - type: input
-        id: uitgever_ontwikkelaar
-        attributes:
-        label: Uitgever/ontwikkelaar
-        placeholder: ""
-        validations:
-        required: false
-    - type: input
-        id: jaar_van_uitgave
-        attributes:
-        label: Jaar van uitgave
-        placeholder: ""
-        validations:
-        required: false
-    - type: input
-        id: download_archive
-        attributes:
-        label: Download (Archive.org)
-        placeholder: "URL"
-        validations:
-        required: false
+  - type: textarea
+    id: description
+    attributes:
+    label: Omschrijving
+    validations:
+    required: true
+  - type: input
+    id: uitgever_ontwikkelaar
+    attributes:
+    label: Uitgever/ontwikkelaar
+    placeholder: ""
+    validations:
+    required: false
+  - type: input
+    id: jaar_van_uitgave
+    attributes:
+    label: Jaar van uitgave
+    placeholder: ""
+    validations:
+    required: false
+  - type: input
+    id: download_archive
+    attributes:
+    label: Download (Archive.org)
+    placeholder: "URL"
+    validations:
+    required: false
